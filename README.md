@@ -1,4 +1,4 @@
-# ex1-OOP
+# Ex1-OOP
 OOP Task 1 - offline algorithm
 Made by Amit Goffer - 205541360, Yehonatan Amosi - 209542349.
 
