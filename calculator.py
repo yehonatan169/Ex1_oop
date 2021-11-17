@@ -1,5 +1,4 @@
 
-
 def dist(src, dest, elev):  # return the time to make the travel from source to destination
     speed = float(elev.speed)
     return (abs(int(src) - int(dest)) / speed) + float(elev.startTime) + float(elev.stopTime) + float(
