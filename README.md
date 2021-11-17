@@ -11,3 +11,4 @@ If no possible insertions are found, the algorithm will do its 'plan b', which i
 Then it will select the elevator which will yield the quickest result.
 Example: elevator stations - 3,5,1. call - 6 -> 7. after the insertion the stations of the elevator will be 3,5,1,6,7 .
 With those 2 stages - we will ensure that each call, in turn, will get the quickest executing time.
+![Uml_of_the_class](https://user-images.githubusercontent.com/76455181/142285981-62b8df08-02d5-44c2-a242-30c42d0ed6c0.jpeg)
