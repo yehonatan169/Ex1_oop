@@ -1,6 +1,5 @@
 import math
 
-
 class Elevator:
 
     def __init__(self, dic):
